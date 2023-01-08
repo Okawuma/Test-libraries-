@@ -96,7 +96,7 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://18.134.11.251:8081/landmark/repository/MwaRevisionWAR-releases/<url>
+	      <url>http://18.134.11.251:8081/landmark/repository/MwaRevisionWAR-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
