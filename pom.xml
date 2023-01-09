@@ -6,7 +6,7 @@
 	<artifactId>maven-web-application</artifactId>
 	<packaging>war</packaging>
 	
-	<version>0.0.2Rev-SNAPSHOT</version> 
+	<version>0.0.3Rev-SNAPSHOT</version> 
 	
 	<name>maven-web-application</name>
 
@@ -108,7 +108,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>mwaRevision2</finalName>
+		<finalName>UberLTD</finalName>
 		
 		<plugins>
 			<plugin>
