@@ -108,7 +108,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>mwaRevision</finalName>
+		<finalName>mwaRevision2</finalName>
 		
 		<plugins>
 			<plugin>
