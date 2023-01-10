@@ -108,7 +108,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>UberLTD</finalName>
+		<finalName>NURSINGproject</finalName>
 		
 		<plugins>
 			<plugin>
