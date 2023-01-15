@@ -6,7 +6,7 @@
 	<artifactId>maven-web-application</artifactId>
 	<packaging>war</packaging>
 	
-	<version>0.0.5Rev-SNAPSHOT</version> 
+	<version>0.0.1Rev-SNAPSHOT</version> 
 	
 	<name>maven-web-application</name>
 
@@ -108,7 +108,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>NURSINGproject</finalName>
+		<finalName>eBay</finalName>
 		
 		<plugins>
 			<plugin>
