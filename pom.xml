@@ -96,15 +96,14 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://172.31.5.130:8081/#admin/repository/repositories:MAVEN-RELEASESS/</url>
+	      <url>http://18.170.115.67:8081/repository/MAVEN-RELEASESS/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://172.31.5.130:8081/#admin/repository/repositories:MAVEN-SNAPSHOTSS/</url>
+	      <url>http://18.170.115.67:8081/repository/MAVEN-SNAPSHOTSS/</url>
 	    </snapshotRepository>
-	    
 	</distributionManagement>
 	
 	<build>
